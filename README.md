@@ -18,7 +18,7 @@
 </head>
 <body>
 
-  <div class="contenedor">
+  <div class="contenedor imagen-reducida">
     <img src="foto_github.png" alt="Monumentos del mundo" class="imagen-reducida">
   </div>
 
