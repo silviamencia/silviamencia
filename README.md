@@ -12,7 +12,7 @@
     .imagen-reducida {
       width: 50%;      /* Reduce el tamaño al 50% del contenedor */
       max-width: 672px; /* Tamaño máximo si lo necesitas */
-      height: auto;    /* Mantiene la proporción */
+      height: 136;    /* Mantiene la proporción */
     }
   </style>
 </head>
