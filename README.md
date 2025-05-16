@@ -1,4 +1,29 @@
-![](./foto_github.png)
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Imagen centrada y reducida</title>
+  <style>
+    .contenedor {
+      text-align: center; /* Centra horizontalmente la imagen */
+      margin-top: 50px;
+    }
+
+    .imagen-reducida {
+      width: 50%;      /* Reduce el tamaño al 50% del contenedor */
+      max-width: 672px; /* Tamaño máximo si lo necesitas */
+      height: auto;    /* Mantiene la proporción */
+    }
+  </style>
+</head>
+<body>
+
+  <div class="contenedor">
+    <img src="foto_github.png" alt="Monumentos del mundo" class="imagen-reducida">
+  </div>
+
+</body>
+</html>
 
 # Curriculum Vitae – Academic Profile 
 
