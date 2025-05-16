@@ -1,3 +1,5 @@
+![](./foto_github.png)
+
 # Curriculum Vitae – Academic Profile 
 
 ## Personal Information
