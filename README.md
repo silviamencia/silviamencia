@@ -4,7 +4,7 @@
 <body>
 
   <div class="contenedor imagen-reducida">
-    <img src="foto_github.png" alt="Monumentos del mundo" class="imagen-reducida" width="400" height="120">
+    <img src="foto_github.png" alt="Monumentos del mundo" class="imagen-reducida" width="672" height="136">
   </div>
 
 </body>
